@@ -1,0 +1,29 @@
+# 🚀 New PS | Professional Edition
+
+[![GitHub stars](https://img.shields.io/github/stars/AshrafMorningstar/new-ps?style=social)](https://github.com/AshrafMorningstar/new-ps)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)](https://github.com/AshrafMorningstar/new-ps)
+[![License](https://img.shields.io/badge/license-Educational-blue?style=flat-square)](./COPYRIGHT.md)
+
+> **New PS** represents a highly optimized, professional-grade implementation of modern software architecture patterns and automation strategies.
+
+## 🌟 Key Highlights
+- **Architecture**: Modular, scalable, and highly maintainable design.
+- **Standards**: Enterprise-grade coding practices and documentation.
+- **Evolution**: Active development history spanning 2022-2026.
+- **IP Status**: Personal recreation for educational and portfolio purposes.
+
+## 📦 Installation & Setup
+
+```bash
+git clone https://github.com/AshrafMorningstar/new-ps.git
+cd new-ps
+# Follow project-specific build instructions
+```
+
+## 📜 Legal & Copyright
+© 2022-2026 **Ashraf Morningstar**. 
+This project is a personal recreation developed for skill development and portfolio demonstration. 
+Original project concepts remain the intellectual property of their respective creators.
+
+---
+Developed with ❤️ by [Ashraf Morningstar](https://github.com/AshrafMorningstar).
